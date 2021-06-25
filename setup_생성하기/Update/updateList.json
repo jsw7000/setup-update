@@ -1,0 +1,11 @@
+{	
+	"update list": {
+		"target-name-list": "VMS,ITS,Calibration,GBCR",	
+		"version" : {			
+			"ITS": "1.0.0.0",
+			"VMS": "1.0.0.0",
+			"Calibration": "1.0.0.0",
+			"GBCR": "1.0.0.0"		
+			}
+	}
+}
